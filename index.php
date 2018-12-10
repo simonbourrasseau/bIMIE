@@ -124,8 +124,8 @@ function showSlides() {
 	<div id="cadre">
                 
 			<form action="" class="formulaire">
-			<input class="champ" type="text" value="Recherche...)"/>
-			<input class="bouton" type="button" value= "entrer" />
+			<input class="champ" type="text" value="(Recherche...)"/>
+			<input class="bouton" type="button" value= "Chercher"
 		 
 			</form>
 	</div>
@@ -135,47 +135,43 @@ function showSlides() {
 	<div id="cadre">
 	<table class="table">
 	<tr>
-	<th class="textcadre" id="nep"> News </th>
+	<th class="textcadre" id="nep"> Actualités : </th>
 	</tr>
 	<tr>
-	<td> <a href="#" title="#"> 1 </a>
+	<td> <a href="#" title="#"> Campus </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 2 </a>
+	<td> <a href="#" title="#"> Evenement </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 3 </a>
+	<td> <a href="#" title="#"> Orientation </a>
 	</td>
 	</tr>	
-	<tr>
-	<td> <a href="#" title="#"> 4 </a>
-	</td>
-	</tr>
 	</table>
 	</div>
 		
-	<!-- <h3> Innovations </h3></br> -->
+	<!-- <h3> Veille Techno </h3></br> -->
 	<div id="cadre">
 	<table class="table">
 	<tr>
-	<th class="textcadre"> Innovations </th>
+	<th class="textcadre"> Veille Technologique : </th>
 	</tr>
 	<tr>
-	<td> <a href="#" title="#"> 1 </a>
+	<td> <a href="#" title="#"> Technologie </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 2 </a>
+	<td> <a href="#" title="#"> Economie </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 3 </a>
+	<td> <a href="#" title="#"> Esport </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 4 </a>
+	<td> <a href="#" title="#"> Environnement </a>
 	</td>
 	</tr>
 	</table>
@@ -185,22 +181,22 @@ function showSlides() {
 	<div id="cadre">
 	<table class="table">
 	<tr>
-	<th class="textcadre"> Recherche & Développement </th>
+	<th class="textcadre"> Contacts : </th>
 	</tr>
 	<tr>
-	<td> <a href="#" title="#"> 1 </a>
+	<td> <a href="#" title="#"> Partenaires </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 2 </a>
+	<td> <a href="https://www.linkedin.com/school/imie/" title="#"> LinkedIn </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 3 </a>
+	<td> <a href="https://twitter.com/EcoleIMIE" title="#"> Twitter </a>
 	</td>
 	</tr>	
 	<tr>
-	<td> <a href="#" title="#"> 4 </a>
+	<td> <a href="https://www.facebook.com/IMIE.IT/" title="#"> Facebook </a>
 	</td>
 	</tr>
 	</table>
@@ -210,24 +206,24 @@ function showSlides() {
 	<div id="cadre">
 	<table class="table">
 	<tr>
-	<th class="textcadre" id="conp"> Contacts </th>
+	<th class="textcadre" id="conp"> Case Mystère : </th>
 	</tr>
 	<tr>
-	<td> <a href="#" title="#"> 1 </a>
+	<td> <a href="#" title="#"> > Explorons ! </a>
 	</td>
 	</tr>	
-	<tr>
-	<td> <a href="#" title="#"> 2 </a>
-	</td>
-	</tr>	
-	<tr>
-	<td> <a href="#" title="#"> 3 </a>
-	</td>
-	</tr>	
-	<tr>
-	<td> <a href="#" title="#"> 4 </a>
-	</td>
-	</tr>
+	<!-- <tr>
+	// <td> <a href="#" title="#"> . </a>
+	// </td>
+	// </tr>	
+	// <tr>
+	// <td> <a href="#" title="#"> . </a>
+	// </td>
+	// </tr>	
+	// <tr>
+	// <td> <a href="#" title="#"> . </a>
+	// </td>
+	</tr> -->
 	</table>
 	</div>
 	
@@ -235,7 +231,7 @@ function showSlides() {
 	<div id="pied_de_page">
 		<center>
 			<p> - <a href="Mentions_legal.html" >Mention légale</a> - <a href="CGU.html" >CGU</a> - </p>
-			<img src="Images\logo2.png" alt="Logo Imiesphere" width="60px" height="60px"></p>
+			<img src="images\logo2.png" alt="Logo Imiesphere" id="logem"></p>
 		</center>
   </div>
 	
