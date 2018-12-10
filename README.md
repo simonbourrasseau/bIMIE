@@ -3,4 +3,5 @@
 # IMIE
 # bIMIE
 Les gens du groupe : 
--Nathan Gracia
+- Nathan Gracia
+- Nicolas HAMY
